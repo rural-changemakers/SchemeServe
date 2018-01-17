@@ -1,0 +1,66 @@
+"S.No.","Done by","Masterlist no.","Scheme Name","Scheme (State/Central)","Scheme type - HH or individual","member_age","ration_card","member_disabled_yn","member_disability_percentage","member_disability_type","member_gender","member_marital_status","toilet_yn","religion","caste","member_major_illness","member_highest_education","member_studying_yn","member_pregnant_yn","household_primary_source_income","member_occupation","member_relation_hoh","member_aadhaar_card_yn","farming_land","farming_crops","livestock_animals ","household_income_monthly","member_nrega_number_days"
+1,"Avinash","303","IG National Old Age Pension Scheme","Central+State","Individual",">60","BPL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,"Avinash","303","IG National Disability pension scheme","Central","Individual","18-79","BPL","Yes",">80%",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3,"Avinash","303","IG National Widow Pension Scheme","Central","Individual","40-79","BPL",NA,NA,NA,"स्त्री","Widow",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4,"Avinash","305","Saamajik Suraksha Old Age Pension Scheme","State","Individual",">60","BPL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5,"Avinash","305","Saamajik Suraksha Widow/Abandoned pension scheme","State","Individual",">18","BPL",NA,NA,NA,"स्त्री","Widow|Abandoned|Divorced",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6,"Avinash","305","Saamajik Suraksha Disability pension scheme","State","Individual",">18","BPL","Yes","40 % - 80%",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,"Avinash","305","Saamajik Suraksha pension for Children With Special Needs","State","Individual","6-18","BPL","Yes","40 % - 80%",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8,"Avinash","305","MRMD (multiple and mental Disability pension)","State","Individual",">6","BPL","Yes",NA,"बौद्धिक",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,"Avinash","2","Swachh Bharat Mission","Central","Household",NA,"BPL",NA,NA,NA,NA,NA,"नहीं",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10,"Avinash","13","Deen Dayal Antyodaya Upchar Yojna","State","Household",NA,"BPL",NA,NA,NA,NA,NA,NA,NA,"SC - अनुसूचित जाती/ST - अनुसूचित जनजाति (If SC/ST, need not be BPL)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11,"Avinash","14","Rajya Bimari Sahayata Nidhi","State","Individual",NA,"BPL",NA,NA,NA,NA,NA,NA,NA,NA,"कैंसर|किडनी|घुटनों का रिप्लेसमेंट|हिप रिप्लेसमेंट",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,"Avinash","15","Mukhyamantri Bal Hriday Upchar Yojana","State","Individual","0-15",NA,NA,NA,NA,NA,NA,NA,NA,NA,"हृदयरोग",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13,"Avinash","16","ICDS","Central","Individual","0-6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,"Avinash","16","ICDS","Central","Individual","3-6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,"Avinash","16","ICDS","Central","Individual",">19",NA,NA,NA,NA,"स्त्री",NA,NA,NA,NA,NA,NA,NA,"हाँ",NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,"Avinash","20","Ladli Laxmi Yojana","State","Individual","<1","BPL",NA,NA,NA,"स्त्री",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,"Avinash","22","Gaon ki beti yojana","State","Individual",NA,NA,NA,NA,NA,"स्त्री",NA,NA,NA,NA,NA,"11|12","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,"Avinash","24","Janani Suraksha Yojana","Central","Individual",">19","BPL",NA,NA,NA,"स्त्री",NA,NA,NA,"SC - अनुसूचित जाती/ST - अनुसूचित जनजाति (If SC/ST, need not be BPL)",NA,NA,NA,"हाँ",NA,NA,NA,NA,NA,NA,NA,NA,NA
+19,"Avinash","29","Pm Matritva Vandana Yojana","Central","Individual",">19",NA,NA,NA,NA,"स्त्री",NA,NA,NA,NA,NA,NA,NA,"हाँ",NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,"Avinash","25","Prasuti Sahayata Yojana","State","Individual",">20",NA,NA,NA,NA,"स्त्री",NA,NA,NA,NA,NA,NA,NA,NA,"कंस्ट्रक्शन लेबर",NA,NA,NA,NA,NA,NA,NA,NA
+21,"Avinash","38","_x0019_न:श_x001C_ त ववाह _x000B_ो#साहन योजना (Disabled wedding scheme) Male","State","Individual",">21 ",NA,"Yes","40 % - 80%",NA,"पुरुष",NA,NA,NA,NA,NA,NA,NA,NA,NA,"नहीं",NA,NA,NA,NA,NA,NA,NA
+22,"Avinash","38","_x0019_न:श_x001C_ त ववाह _x000B_ो#साहन योजना (Disabled wedding scheme) Female","State","Individual",">18",NA,"Yes","40 % - 80%",NA,"स्त्री",NA,NA,NA,NA,NA,NA,NA,NA,NA,"नहीं",NA,NA,NA,NA,NA,NA,NA
+23,"Avinash","41","Chief Minister's Education Incentive Scheme","State","Individual",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"11|12","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,"Avinash","51","Pre-matric scholarship for the minorities","Central","Individual",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"1|2|3|4|5|6|7|8|9|10","Yes",NA,NA,NA,NA,NA,NA,NA,NA,"<8500",NA
+25,"Avinash","302","Swavalamban Yojana","Central","Individual","18-60",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,"Avinash","308","Rashtriya Swasthya Bima Yojna","Central","Individual",NA,"BPL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"कंस्ट्रक्शन लेबर|तेंदू पत्ता collector|wood collector",NA,NA,NA,NA,NA,NA,">15 (This OR the conditions in member_source_of_income) "
+27,"Avinash","309","Aam Aadmi Bima Yojana","Central","Individual","18-60","BPL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"कृषि|कंस्ट्रक्शन लेबर|घर का काम|मैन्युअल सफाई|तेंदू पत्ता collector|चर्मशोधक|पशुपालन|इतर|multiple|wood collector","Self",NA,NA,NA,NA,NA,NA
+28,"Avinash","310","Pradhan Mantri Jan Dhan Yojana","Central","Individual",">10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+29,"Avinash","329","UIDAI","Central","Individual",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,NA,NA
+30,"Avinash","311","National Food Security Act","State","Household",NA,"Below Poverty line|AAY",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+31,"Avinash","307","Eklavya Education Development Schemes","State","Individual",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yes",NA,"तेंदू पत्ता collector",NA,NA,NA,NA,NA,NA,NA,NA
+32,"Avinash","306","Tendu patta group insurance scheme","State","Individual","18-50",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"तेंदू पत्ता collector",NA,NA,NA,NA,NA,NA,NA
+33,"Mannan","138","Weather-based Crop Insurance Scheme","Central","Household",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yes","अपनी खेती खुद के ज़मीन पर|अपनी खेती किराया ज़मीन पर",NA,NA,NA,NA
+34,"Mannan","214","Deen Dayal Upadhyaya Gram Kaushalya Yojana","Central","Individual","18-35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35,"Mannan","222","Self-Employment Scheme for Rehabilitation of Scavengers","Central","Individual",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"मैन्युअल सफाई",NA,NA,NA,NA,NA,NA,NA,NA
+36,"Mannan","242","Swachh Bharat Mission","Central+State","Household",NA,"BPL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37,"Mannan","301","Atal Pension Yojana","Central","Individual","18-40",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38,"Mannan","-","Pradhan Mantri Gramin Awaas Yojana","Central","Household",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39,"Mannan","309","Aam Aadmi Bima Youjna","LIC","Individual","18-60","BPL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40,"Mannan","150","Soil Health Cards","Central","Household",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"कृषि",NA,NA,NA,NA,NA,NA,NA,NA
+41,"Mannan","156","Isopam Yojna","State","Household",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"कृषि",NA,NA,NA,NA,"oilseed (तिलहन)|pulses (दलहन)|groundnut (मूंगफली)",NA,NA,NA
+42,"Mannan","168","Centrally Enabled Sugarcane Development Scheme","State","Household",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"कृषि",NA,NA,NA,NA,"sugarcane (गन्ना)",NA,NA,NA
+43,"Mannan","-","IPM pradarshan (jaiv saghanta)","State","Household",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"कृषि",NA,NA,NA,NA,"mustard (सरसों)|groundnut (मूंगफली)|soyabean (सोयाबीन)|sunflower (सूरजमुखी)|maize (मक्का)",NA,NA,NA
+44,"Mannan","-","Beej Gram Yojana","State","Household",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"कृषि",NA,NA,NA,NA,NA,NA,NA,NA
+45,"Mannan","-","National biogas development scheme","Central","Household",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"कृषि",NA,NA,NA,NA,NA,"गाय|बैल|भैंस",NA,NA
+46,"Mannan","-","Integrated grain development scheme","State","Household",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"कृषि",NA,NA,NA,NA,"rice (चावल)|wheat (गेहू)",NA,NA,NA
+47,"Mannan","-","Mukhyamantri Mazdoor Suraksha Yojana","State","Individual","18-60",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"कृषि",NA,NA,NA,"अपनी खेती किराया ज़मीन पर|किसी और के लिए",NA,NA,NA,NA
+48,"","-","Pradhan mantri fasal bima yojana","Central","Household",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"कृषि",NA,NA,NA,NA,NA,NA,NA,NA
+49,"","","Balram taal yojana","State","Household",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"कृषि",NA,NA,NA,NA,NA,NA,NA,NA
+50,"","","State Micro Irrigation Scheme","State","Household",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"कृषि",NA,NA,NA,"अपनी खेती खुद के ज़मीन पर",NA,NA,NA,NA
+51,"","","Nalkoop Khanan Yojana","State","Household",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"कृषि",NA,NA,NA,"अपनी खेती खुद के ज़मीन पर",NA,NA,NA,NA
+52,"Nipun","51","Pre-Matric Scholarship for Other Backward Classes","Central","Individual",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"1|2|3|4|5|6|7|8|9|10","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+53,"Nipun","59","Pre-Matric Scholarship for Children of Those Engaged in Unclean Occupations","Central","Individual",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yes",NA,"मैन्युअल सफाई|चर्मशोधक",NA,NA,NA,NA,NA,NA,NA,NA
+54,"Nipun","60","Pre-Matric Scholarship for SC Students","Central","Individual",NA,NA,NA,NA,NA,NA,NA,NA,NA,"SC - अनुसूचित जाती",NA,"1|2|3|4|5|6|7|8|9|10","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+55,"Nipun","61","National Overseas Scholarships for Persons With Disabilities (PWD)","Central","Individual","<35",NA,"YES ",NA,NA,NA,NA,NA,NA,NA,NA,"Graduate|Post graduate",NA,NA,NA,NA,NA,NA,NA,NA,NA,"<50000",NA
+56,"Nipun","64","Post-Matric Scholarship for Students with Disabilities","Central","Individual",NA,NA,"Yes",NA,NA,NA,NA,NA,NA,NA,NA,"10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+57,"Nipun","65","Post-Matric Scholarship for Minorities","Central","Individual",NA,NA,NA,NA,NA,NA,NA,NA,"Muslim|Christian|Other",NA,NA,"10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+58,"Nipun","66","Pre and Post-Matric Scholarship to ST Children","Central","Individual",NA,NA,NA,NA,NA,NA,NA,NA,NA,"ST - अनुसूचित जनजाति",NA,"8|9|10|11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+59,"Nipun","76","Schemes of Top Class Education for PWDs","","Individual",NA,NA,"YES",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+60,"Nipun","79","Sudama pre-matric","State - MP","Individual",NA,"BPL",NA,NA,NA,NA,NA,NA,NA,NA,NA,"8|9","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+61,"Nipun","80","Swami Vivekananda Post-metric Merit Scholarship Scheme","State - MP","Individual",NA,"BPL",NA,NA,NA,NA,NA,NA,NA,NA,NA,"10|11","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62,"Nipun","116","Swadhar Greh","Central","Individual",">18",NA,NA,NA,NA,"स्त्री","Abandoned",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+63,"Nipun","130","Rajiv Gandhi National Creche Scheme for the Children of Working Mothers","Central","Individual","0-6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+64,"Nipun","133","Group Marriage Scheme of SC and ST Welfare Department, Madhya Pradesh","State - MP","Household",NA,"BPL",NA,NA,NA,NA,NA,NA,NA,"ST - अनुसूचित जनजाति",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"<1000",NA
+65,"","58","Post-Matric Scholarship Scheme for SC","","Individual",NA,NA,NA,NA,NA,NA,NA,NA,NA,"SC - अनुसूचित जाती",NA,"10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
