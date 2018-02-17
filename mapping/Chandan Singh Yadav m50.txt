@@ -1,0 +1,59 @@
+Member Name: household
+Scheme Name: Soil Health Cards, Scheme ID: 40
+Scheme Name: Integrated grain development scheme, Scheme ID: 46
+Scheme Name: National biogas development scheme, Scheme ID: 45
+Scheme Name: Nalkoop Khanan Yojana, Scheme ID: 51
+Scheme Name: Beej Gram Yojana, Scheme ID: 44
+Scheme Name: State Micro Irrigation Scheme, Scheme ID: 50
+Scheme Name: Weather-based Crop Insurance Scheme, Scheme ID: 33
+Scheme Name: Pradhan Mantri Gramin Awaas Yojana, Scheme ID: 38
+Scheme Name: Balram taal yojana, Scheme ID: 49
+Scheme Name: Deen Dayal Antyodaya Upchar Yojna, Scheme ID: 10
+Scheme Name: Pradhan mantri fasal bima yojana, Scheme ID: 48
+Scheme Name: Swachh Bharat Mission, Scheme ID: 36
+Scheme Name: IPM pradarshan (jaiv saghanta), Scheme ID: 43
+
+----------------------------------------------------------
+Member Name: kusum bai yadav
+Scheme Name: Prasuti Sahayata Yojana, Scheme ID: 20
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: jayhind singh yadav
+Scheme Name: Chief Minister's Education Incentive Scheme, Scheme ID: 23
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Deen Dayal Upadhyaya Gram Kaushalya Yojana, Scheme ID: 34
+Scheme Name: Atal Pension Yojana, Scheme ID: 37
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: chandan singh yadav
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Aam Aadmi Bima Yojana, Scheme ID: 27
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: devi singh yadav
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Deen Dayal Upadhyaya Gram Kaushalya Yojana, Scheme ID: 34
+Scheme Name: Atal Pension Yojana, Scheme ID: 37
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: rinki yadav
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Deen Dayal Upadhyaya Gram Kaushalya Yojana, Scheme ID: 34
+Scheme Name: Atal Pension Yojana, Scheme ID: 37
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: Pooja Yadav
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+
+----------------------------------------------------------

@@ -1,0 +1,40 @@
+Member Name: household
+Scheme Name: Soil Health Cards, Scheme ID: 40
+Scheme Name: Integrated grain development scheme, Scheme ID: 46
+Scheme Name: Pradhan Mantri Gramin Awaas Yojana, Scheme ID: 38
+Scheme Name: Balram taal yojana, Scheme ID: 49
+Scheme Name: Pradhan mantri fasal bima yojana, Scheme ID: 48
+Scheme Name: Beej Gram Yojana, Scheme ID: 44
+
+----------------------------------------------------------
+Member Name: kishor singh yadav
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Mukhyamantri Mazdoor Suraksha Yojana, Scheme ID: 47
+
+----------------------------------------------------------
+Member Name: rajkunwar yadav
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Atal Pension Yojana, Scheme ID: 37
+Scheme Name: Mukhyamantri Mazdoor Suraksha Yojana, Scheme ID: 47
+
+----------------------------------------------------------
+Member Name: raja yadav
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: UIDAI, Scheme ID: 29
+Scheme Name: Deen Dayal Upadhyaya Gram Kaushalya Yojana, Scheme ID: 34
+Scheme Name: Atal Pension Yojana, Scheme ID: 37
+Scheme Name: Mukhyamantri Mazdoor Suraksha Yojana, Scheme ID: 47
+
+----------------------------------------------------------
+Member Name: hira yadav
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: UIDAI, Scheme ID: 29
+Scheme Name: Deen Dayal Upadhyaya Gram Kaushalya Yojana, Scheme ID: 34
+Scheme Name: Atal Pension Yojana, Scheme ID: 37
+Scheme Name: Mukhyamantri Mazdoor Suraksha Yojana, Scheme ID: 47
+
+----------------------------------------------------------

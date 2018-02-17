@@ -1,0 +1,35 @@
+Member Name: household
+Scheme Name: Pradhan Mantri Gramin Awaas Yojana, Scheme ID: 38
+Scheme Name: Swachh Bharat Mission, Scheme ID: 36
+Scheme Name: Deen Dayal Antyodaya Upchar Yojna, Scheme ID: 10
+
+----------------------------------------------------------
+Member Name: lalta prasad ray
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Aam Aadmi Bima Yojana, Scheme ID: 27
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: mithkesh kumari ray
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: sunil kumar ray
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Deen Dayal Upadhyaya Gram Kaushalya Yojana, Scheme ID: 34
+Scheme Name: Atal Pension Yojana, Scheme ID: 37
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: sonu ray
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Deen Dayal Upadhyaya Gram Kaushalya Yojana, Scheme ID: 34
+Scheme Name: Atal Pension Yojana, Scheme ID: 37
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------

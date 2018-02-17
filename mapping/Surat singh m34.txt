@@ -1,0 +1,14 @@
+Member Name: household
+Scheme Name: Pradhan Mantri Gramin Awaas Yojana, Scheme ID: 38
+
+----------------------------------------------------------
+Member Name: Sooraj singh yadav
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+
+----------------------------------------------------------
+Member Name: maida bai yadav
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+
+----------------------------------------------------------

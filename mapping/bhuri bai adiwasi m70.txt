@@ -1,0 +1,23 @@
+Member Name: household
+Scheme Name: Pradhan Mantri Gramin Awaas Yojana, Scheme ID: 38
+Scheme Name: Swachh Bharat Mission, Scheme ID: 36
+Scheme Name: Deen Dayal Antyodaya Upchar Yojna, Scheme ID: 10
+
+----------------------------------------------------------
+Member Name: bhuri bai adiwasi
+Scheme Name: IG National Old Age Pension Scheme, Scheme ID: 1
+Scheme Name: IG National Widow Pension Scheme, Scheme ID: 3
+Scheme Name: Saamajik Suraksha Old Age Pension Scheme, Scheme ID: 4
+Scheme Name: Saamajik Suraksha Widow/Abandoned pension scheme, Scheme ID: 5
+Scheme Name: Prasuti Sahayata Yojana, Scheme ID: 20
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+
+----------------------------------------------------------
+Member Name: shita karan
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Deen Dayal Upadhyaya Gram Kaushalya Yojana, Scheme ID: 34
+Scheme Name: Atal Pension Yojana, Scheme ID: 37
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------

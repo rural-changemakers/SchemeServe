@@ -1,0 +1,50 @@
+Member Name: household
+Scheme Name: Swachh Bharat Mission, Scheme ID: 36
+Scheme Name: Pradhan Mantri Gramin Awaas Yojana, Scheme ID: 38
+
+----------------------------------------------------------
+Member Name: Babulal Gond
+Scheme Name: IG National Old Age Pension Scheme, Scheme ID: 1
+Scheme Name: Saamajik Suraksha Old Age Pension Scheme, Scheme ID: 4
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+
+----------------------------------------------------------
+Member Name: Shanti Adiwasi
+Scheme Name: Gaon ki beti yojana, Scheme ID: 17
+Scheme Name: Chief Minister's Education Incentive Scheme, Scheme ID: 23
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Deen Dayal Upadhyaya Gram Kaushalya Yojana, Scheme ID: 34
+Scheme Name: Atal Pension Yojana, Scheme ID: 37
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+Scheme Name: Pre and Post-Matric Scholarship to ST Children, Scheme ID: 58
+Scheme Name: Swami Vivekananda Post-metric Merit Scholarship Scheme, Scheme ID: 61
+
+----------------------------------------------------------
+Member Name: Jalsa Bai Gond
+Scheme Name: Prasuti Sahayata Yojana, Scheme ID: 20
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: Jagprasad Adiwashi
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Rashtriya Swasthya Bima Yojna, Scheme ID: 26
+Scheme Name: Aam Aadmi Bima Yojana, Scheme ID: 27
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: Arun Kumar Adiwasi
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Pre-Matric Scholarship for Other Backward Classes, Scheme ID: 52
+Scheme Name: Pre and Post-Matric Scholarship to ST Children, Scheme ID: 58
+Scheme Name: Sudama pre-matric, Scheme ID: 60
+
+----------------------------------------------------------
+Member Name: Anil Kumar Adiwasi
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Pre-Matric Scholarship for Other Backward Classes, Scheme ID: 52
+
+----------------------------------------------------------

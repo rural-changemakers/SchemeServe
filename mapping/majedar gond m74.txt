@@ -1,0 +1,35 @@
+Member Name: household
+Scheme Name: Pradhan Mantri Gramin Awaas Yojana, Scheme ID: 38
+Scheme Name: Swachh Bharat Mission, Scheme ID: 36
+Scheme Name: Deen Dayal Antyodaya Upchar Yojna, Scheme ID: 10
+
+----------------------------------------------------------
+Member Name: amasiya gond
+Scheme Name: Prasuti Sahayata Yojana, Scheme ID: 20
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Rashtriya Swasthya Bima Yojna, Scheme ID: 26
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: majedar gond
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Rashtriya Swasthya Bima Yojna, Scheme ID: 26
+Scheme Name: Aam Aadmi Bima Yojana, Scheme ID: 27
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: sona gond
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Deen Dayal Upadhyaya Gram Kaushalya Yojana, Scheme ID: 34
+Scheme Name: Atal Pension Yojana, Scheme ID: 37
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: kamta gond
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Schemes of Top Class Education for PWDs, Scheme ID: 59
+
+----------------------------------------------------------

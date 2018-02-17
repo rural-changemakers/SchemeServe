@@ -1,0 +1,47 @@
+Member Name: household
+Scheme Name: Pradhan Mantri Gramin Awaas Yojana, Scheme ID: 38
+Scheme Name: Swachh Bharat Mission, Scheme ID: 36
+Scheme Name: Deen Dayal Antyodaya Upchar Yojna, Scheme ID: 10
+
+----------------------------------------------------------
+Member Name: kavita bai
+Scheme Name: ICDS, Scheme ID: 13
+Scheme Name: ICDS, Scheme ID: 14
+Scheme Name: Rajiv Gandhi National Creche Scheme for the Children of Working Mothers, Scheme ID: 63
+
+----------------------------------------------------------
+Member Name: mamta bai
+Scheme Name: Prasuti Sahayata Yojana, Scheme ID: 20
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Deen Dayal Upadhyaya Gram Kaushalya Yojana, Scheme ID: 34
+Scheme Name: Atal Pension Yojana, Scheme ID: 37
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: foola bai adiwasi
+Scheme Name: Pre-matric scholarship for the minorities, Scheme ID: 24
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Pre-Matric Scholarship for Other Backward Classes, Scheme ID: 52
+
+----------------------------------------------------------
+Member Name: suraj goud
+Scheme Name: Pre-matric scholarship for the minorities, Scheme ID: 24
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Pre-Matric Scholarship for Other Backward Classes, Scheme ID: 52
+
+----------------------------------------------------------
+Member Name: chhotu adiwasi
+Scheme Name: Pre-matric scholarship for the minorities, Scheme ID: 24
+Scheme Name: Pre-Matric Scholarship for Other Backward Classes, Scheme ID: 52
+
+----------------------------------------------------------
+Member Name: bhagwandas gond
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Rashtriya Swasthya Bima Yojna, Scheme ID: 26
+Scheme Name: Aam Aadmi Bima Yojana, Scheme ID: 27
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Atal Pension Yojana, Scheme ID: 37
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------

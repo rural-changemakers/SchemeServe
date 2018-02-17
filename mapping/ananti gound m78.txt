@@ -1,0 +1,40 @@
+Member Name: household
+Scheme Name: Pradhan Mantri Gramin Awaas Yojana, Scheme ID: 38
+Scheme Name: Swachh Bharat Mission, Scheme ID: 36
+Scheme Name: Deen Dayal Antyodaya Upchar Yojna, Scheme ID: 10
+
+----------------------------------------------------------
+Member Name: ananti gound
+Scheme Name: IG National Old Age Pension Scheme, Scheme ID: 1
+Scheme Name: IG National Widow Pension Scheme, Scheme ID: 3
+Scheme Name: Saamajik Suraksha Old Age Pension Scheme, Scheme ID: 4
+Scheme Name: Saamajik Suraksha Widow/Abandoned pension scheme, Scheme ID: 5
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+
+----------------------------------------------------------
+Member Name: shanti gond
+Scheme Name: IG National Widow Pension Scheme, Scheme ID: 3
+Scheme Name: Saamajik Suraksha Widow/Abandoned pension scheme, Scheme ID: 5
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: janki bai
+Scheme Name: ICDS, Scheme ID: 13
+Scheme Name: ICDS, Scheme ID: 14
+Scheme Name: Rajiv Gandhi National Creche Scheme for the Children of Working Mothers, Scheme ID: 63
+
+----------------------------------------------------------
+Member Name: gopi adiwasi
+Scheme Name: Pre-matric scholarship for the minorities, Scheme ID: 24
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Pre-Matric Scholarship for Other Backward Classes, Scheme ID: 52
+
+----------------------------------------------------------
+Member Name: shanti bai adiwasi
+Scheme Name: Pre-matric scholarship for the minorities, Scheme ID: 24
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Pre-Matric Scholarship for Other Backward Classes, Scheme ID: 52
+
+----------------------------------------------------------

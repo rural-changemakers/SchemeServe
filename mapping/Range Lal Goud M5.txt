@@ -1,0 +1,40 @@
+Member Name: household
+Scheme Name: Soil Health Cards, Scheme ID: 40
+Scheme Name: Isopam Yojna, Scheme ID: 41
+Scheme Name: Integrated grain development scheme, Scheme ID: 46
+Scheme Name: National biogas development scheme, Scheme ID: 45
+Scheme Name: Nalkoop Khanan Yojana, Scheme ID: 51
+Scheme Name: Beej Gram Yojana, Scheme ID: 44
+Scheme Name: Weather-based Crop Insurance Scheme, Scheme ID: 33
+Scheme Name: Pradhan Mantri Gramin Awaas Yojana, Scheme ID: 38
+Scheme Name: Balram taal yojana, Scheme ID: 49
+Scheme Name: Pradhan mantri fasal bima yojana, Scheme ID: 48
+Scheme Name: Swachh Bharat Mission, Scheme ID: 36
+Scheme Name: State Micro Irrigation Scheme, Scheme ID: 50
+
+----------------------------------------------------------
+Member Name: Range Lal Goud
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Aam Aadmi Bima Yojana, Scheme ID: 27
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: Rekha Baj
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: Rambhuan Goud
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Deen Dayal Upadhyaya Gram Kaushalya Yojana, Scheme ID: 34
+Scheme Name: Atal Pension Yojana, Scheme ID: 37
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: Tikaram Adiwasi
+Scheme Name: Pre-Matric Scholarship for Other Backward Classes, Scheme ID: 52
+
+----------------------------------------------------------

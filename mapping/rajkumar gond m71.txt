@@ -1,0 +1,37 @@
+Member Name: household
+Scheme Name: Pradhan Mantri Gramin Awaas Yojana, Scheme ID: 38
+Scheme Name: Swachh Bharat Mission, Scheme ID: 36
+Scheme Name: Deen Dayal Antyodaya Upchar Yojna, Scheme ID: 10
+
+----------------------------------------------------------
+Member Name: pushpendra adiwasi
+Scheme Name: ICDS, Scheme ID: 13
+Scheme Name: ICDS, Scheme ID: 14
+Scheme Name: Rajiv Gandhi National Creche Scheme for the Children of Working Mothers, Scheme ID: 63
+
+----------------------------------------------------------
+Member Name: aman adiwasi
+Scheme Name: ICDS, Scheme ID: 13
+Scheme Name: ICDS, Scheme ID: 14
+Scheme Name: UIDAI, Scheme ID: 29
+Scheme Name: Rajiv Gandhi National Creche Scheme for the Children of Working Mothers, Scheme ID: 63
+
+----------------------------------------------------------
+Member Name: tulsi bai
+Scheme Name: Prasuti Sahayata Yojana, Scheme ID: 20
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Deen Dayal Upadhyaya Gram Kaushalya Yojana, Scheme ID: 34
+Scheme Name: Atal Pension Yojana, Scheme ID: 37
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: rajkumar goud
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Aam Aadmi Bima Yojana, Scheme ID: 27
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Deen Dayal Upadhyaya Gram Kaushalya Yojana, Scheme ID: 34
+Scheme Name: Atal Pension Yojana, Scheme ID: 37
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------

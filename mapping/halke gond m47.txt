@@ -1,0 +1,51 @@
+Member Name: household
+Scheme Name: Soil Health Cards, Scheme ID: 40
+Scheme Name: Isopam Yojna, Scheme ID: 41
+Scheme Name: Nalkoop Khanan Yojana, Scheme ID: 51
+Scheme Name: Swachh Bharat Mission, Scheme ID: 9
+Scheme Name: Beej Gram Yojana, Scheme ID: 44
+Scheme Name: Weather-based Crop Insurance Scheme, Scheme ID: 33
+Scheme Name: Pradhan Mantri Gramin Awaas Yojana, Scheme ID: 38
+Scheme Name: Balram taal yojana, Scheme ID: 49
+Scheme Name: Deen Dayal Antyodaya Upchar Yojna, Scheme ID: 10
+Scheme Name: Pradhan mantri fasal bima yojana, Scheme ID: 48
+Scheme Name: Swachh Bharat Mission, Scheme ID: 36
+Scheme Name: State Micro Irrigation Scheme, Scheme ID: 50
+
+----------------------------------------------------------
+Member Name: resham bai gond
+Scheme Name: Prasuti Sahayata Yojana, Scheme ID: 20
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+Scheme Name: Schemes of Top Class Education for PWDs, Scheme ID: 59
+
+----------------------------------------------------------
+Member Name: halke gond
+Scheme Name: Swavalamban Yojana, Scheme ID: 25
+Scheme Name: Aam Aadmi Bima Yojana, Scheme ID: 27
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Aam Aadmi Bima Youjna, Scheme ID: 39
+
+----------------------------------------------------------
+Member Name: veeru gound
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+
+----------------------------------------------------------
+Member Name: heeru gond
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+
+----------------------------------------------------------
+Member Name: 854229143883
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+
+----------------------------------------------------------
+Member Name: seema adiwasi
+Scheme Name: Pradhan Mantri Jan Dhan Yojana, Scheme ID: 28
+Scheme Name: Pre-Matric Scholarship for Other Backward Classes, Scheme ID: 52
+
+----------------------------------------------------------
+Member Name: surendr kumar adiwasi
+Scheme Name: Pre-Matric Scholarship for Other Backward Classes, Scheme ID: 52
+
+----------------------------------------------------------
