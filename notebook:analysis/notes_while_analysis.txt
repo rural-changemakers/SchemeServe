@@ -1,0 +1,40 @@
+notes about dataset:
+
+Response ID - 5b2f0cba-3a36-4b14-863a-e5a15bc8f20e has member name as '854229143883' instead of an actual name
+
+Apparently no SC in the database
+
+major illness stub may require manual work
+
+Made a judgement call regarding age ranges, it's inclusive i.e >60 includes age 60 and <1 includes age 1
+
+household_primary_source_income will need a manual look
+
+Rashtriya Swasthya Bima Yojna criteria not clear
+ 
+ 
+ 
+Questions:
+- is BPL == AAY , for scheme 64 I have assumed that AAY means the family is BPL
+- is Adiwasi religion in minorities? I have assumed it is.
+ 
+ 
+ 
+ 
+ Wrong info for scheme 52
+ Valid for OBC and family income shouldn't be more than 44,500 per year.
+
+ 
+ 
+ No one eligible for following schemes:
+ 
+ 12
+ 21 (one person may be eligible, I couldn't find the 40% to 80% limit in the information link)
+ 22
+ 32 (no तेंदू पत्ता collector in member occupation)
+ 35 (no मैन्युअल सफाई household primary income)
+ 42 (no one grows sugarcane)
+ 53
+ 54
+ 55                   
+ 65
